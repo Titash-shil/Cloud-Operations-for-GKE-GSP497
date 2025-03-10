@@ -1,4 +1,4 @@
-#  Cloud Operations for GKE || [GSP497](https://www.cloudskillsboost.google/games/5705/labs/36483) ||
+#  Cloud Operations for GKE || [GSP497](https://www.cloudskillsboost.google/focuses/5157?parent=catalog) ||
 
 ## # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
